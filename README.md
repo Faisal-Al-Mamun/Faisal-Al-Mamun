@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Faisal-Al-Mamun/Faisal-Al-Mamun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: faisalalmamun007@gmail.com
+- 📫 How to reach me: ...
 
 
 ## Hello and Welcome! স্বাগতম! <img src="https://raw.githubusercontent.com/Faisal-Al-Mamun/Faisal-Al-Mamun/main/wave.gif" width="30px">
