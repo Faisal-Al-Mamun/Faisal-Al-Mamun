@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-## Hello and Welcome! স্বাগতম! <img src="https://raw.githubusercontent.com/Faisal-Al-Mamun/Faisal-Al-Mamun/main/wave.gif" width="30px">
+## Hello and Welcome! <img src="https://raw.githubusercontent.com/Faisal-Al-Mamun/Faisal-Al-Mamun/main/wave.gif" width="30px">
 
 I am Faisal Al Mamun, a data-enthusiast & a self-taught researcher of finding intelligent software solutions. I have been learning the depths of building Data-&-AI-based systems and looking forward to work in the software industry. 
 
@@ -31,7 +31,7 @@ Find out more about me & feel free to connect with me here:
 [![HackerRank Badge](https://img.shields.io/badge/-Faisal_Al_Mamun-yellow?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/Faisal_Al_Mamun)](https://www.hackerrank.com/Faisal_Al_Mamun)
 [![Gmail Badge](https://img.shields.io/badge/-faisalalmamun007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faisalalmamun007@gmail.com)](mailto:faisalalmamun007@gmail.com)
 
-## <img src="https://raw.githubusercontent.com/Faisal-Al-Mamun/Faisal-Al-Mamun/main/coding.gif" width="30px"> My Skills and Stacks
+## <img src="https://raw.githubusercontent.com/Faisal-Al-Mamun/Faisal-Al-Mamun/main/coding.gif" width="50px"> My Skills and Stacks
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
