@@ -24,7 +24,7 @@ I am Maksudur Rahman, a data-enthusiast & a self-taught researcher of finding in
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Faisal Al Mamun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-al-mamun-0097961a7/)](https://www.linkedin.com/in/maksudur-rahman-82b586162/)
+[![Linkedin Badge](https://img.shields.io/badge/-FaisalAlMamun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-al-mamun-0097961a7/)](https://www.linkedin.com/in/maksudur-rahman-82b586162/)
 [![Kaggle Badge](https://img.shields.io/badge/-makatronium-purple?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/makatronium)](https://www.kaggle.com/makatronium)
 [![Portfolio Badge](https://img.shields.io/badge/-mrahmanniloy-9cf?style=flat-square&logo=github&logoColor=black&link=https://mrahmanniloy.github.io)](https://mrahmanniloy.github.io)
 [![HackerRank Badge](https://img.shields.io/badge/-Makatron-yellow?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/Makatron)](https://www.hackerrank.com/Makatron)
