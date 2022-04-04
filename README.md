@@ -34,8 +34,7 @@ Find out more about me & feel free to connect with me here:
 ## <img src="https://raw.githubusercontent.com/Faisal-Al-Mamun/Faisal-Al-Mamun/main/coding.gif" width="40px"> My Skills and Stacks
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
@@ -43,6 +42,7 @@ Find out more about me & feel free to connect with me here:
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=scikit-learn)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
