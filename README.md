@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Hello and Welcome! <img src="https://raw.githubusercontent.com/Faisal-Al-Mamun/Faisal-Al-Mamun/main/wave.gif" width="30px">
 
-I am Faisal Al Mamun, an Artificial Intelligence(AI) & Machine Learning(ML) enthusiast. I have been learning the depths of building Data & AI based systems and looking forward to work in the software industry. 
+I am Faisal Al Mamun, an Artificial Intelligence(AI) & Machine Learning(ML) enthusiast. I have been learning the depths of building Data & AI based systems and working as a Machine Learning Engineer.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Faisal-Al-Mamun/Faisal-Al-Mamun/main/animated_coder.gif" width="420" height="260" />
 
